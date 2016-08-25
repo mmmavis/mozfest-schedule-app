@@ -2,12 +2,29 @@
     "sessions": [
         {
             "category": "For All Participants", 
-            "day": "Saturday", 
-            "description": "", 
+            "day": "Friday", 
+            "description": "i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description.", 
             "facilitator_array": [
-                "Mavis Ou <3"
+                "Red Ranger",
+                "Pink Ranger"
             ], 
-            "facilitators": "Mavis Ou <3", 
+            "facilitators": "Red Ranger, Pink Ranger",
+            "id": "100", 
+            "link": "", 
+            "location": "Main Ballroom", 
+            "start": "07:00 PM", 
+            "tags": "", 
+            "timeblock": "reserved-friday-registration", 
+            "title": "Friday Registration"
+        }, 
+        {
+            "category": "For All Participants", 
+            "day": "Saturday", 
+            "description": "i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description.",  
+            "facilitator_array": [
+                "Pikachu"
+            ], 
+            "facilitators": "Pikachu", 
             "id": "1", 
             "link": "", 
             "location": "Main Ballroom", 
@@ -19,7 +36,7 @@
         {
             "category": "For All Participants", 
             "day": "Saturday", 
-            "description": "", 
+            "description": "i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description.",  
             "facilitator_array": [
                 "Snow White"
             ], 
@@ -35,7 +52,7 @@
         {
             "category": "For All Participants", 
             "day": "Saturday", 
-            "description": "", 
+            "description": "i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description.",  
             "facilitator_array": [
                 "Donald Duck"
             ], 
@@ -51,7 +68,7 @@
         {
             "category": "For All Participants", 
             "day": "Sunday", 
-            "description": "", 
+            "description": "i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description.",  
             "facilitator_array": [
                 "Iron Chef #2", 
                 "Iron Chef #1"
@@ -68,7 +85,7 @@
         {
             "category": "Advocacy", 
             "day": "Saturday", 
-            "description": "", 
+            "description": "i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description.",  
             "facilitator_array": [
                 "Clark Kent"
             ], 
@@ -84,7 +101,7 @@
         {
             "category": "Advocacy", 
             "day": "Sunday", 
-            "description": "", 
+            "description": "i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description.",  
             "facilitator_array": [
                 "Lois Lane", 
                 "Clark Kent"
@@ -101,7 +118,7 @@
         {
             "category": "Advocacy", 
             "day": "Saturday", 
-            "description": "", 
+            "description": "i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description.",  
             "facilitator_array": [
                 "Lois Lane", 
                 "Clark Kent"
@@ -118,7 +135,7 @@
         {
             "category": "MLN", 
             "day": "Saturday", 
-            "description": "", 
+            "description": "i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description.",  
             "facilitator_array": [
                 "Mayor Lionheart", 
                 "Finnick", 
@@ -136,7 +153,7 @@
         {
             "category": "MLN", 
             "day": "Saturday", 
-            "description": "", 
+            "description": "i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description.",  
             "facilitator_array": [
                 "Finnick", 
                 "Judy Hopps"
@@ -153,7 +170,7 @@
         {
             "category": "MLN", 
             "day": "Sunday", 
-            "description": "", 
+            "description": "i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description. i'm the description.i'm the description. i'm the description. i'm the description.",  
             "facilitator_array": [
                 "Riley Andersen", 
                 "Joy"
@@ -169,6 +186,14 @@
         }
     ], 
     "timeblocks": [
+        {
+            "day": "Friday", 
+            "key": "reserved-friday-registration", 
+            "order": "0", 
+            "reserved for everyone": "yes", 
+            "start time": "19:00 ", 
+            "timeblock name": "Friday Registration"
+        }, 
         {
             "day": "Saturday", 
             "key": "reserved-saturday-registration", 
