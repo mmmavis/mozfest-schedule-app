@@ -30,7 +30,13 @@
           <div class="logo">
             <img src="img/logo-mozilla-festival.svg" />
           </div>
-          <div id="page-links"></div>
+          <div id="nav-links">
+            <div id="page-links"></div>
+            <a id="search" data-tab="search">
+              <i class="fa fa-search search-icon"></i>
+              <div class="search-cancel">Cancel</div>
+            </a>
+          </div>
         </div>
       </nav>
     </header>
@@ -204,8 +210,7 @@
         localStoragePrefix: 'iron-chef',
         tabList: [
           { name: 'Saturday', displayName: 'Sat', tabDate: new Date(2016,5,21) },
-          { name: 'Sunday', displayName: 'Sun', tabDate: new Date(2016,5,22) },
-          { name: 'All', displayName: '<i class="fa fa-search"></i>' }
+          { name: 'Sunday', displayName: 'Sun', tabDate: new Date(2016,5,22) }
         ]
       }
       // instantiate the app
