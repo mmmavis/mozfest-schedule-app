@@ -12,6 +12,10 @@ body,
   background: #F5F5F5;
 }
 
+#schedule-controls a {
+  border-color: #F5F5F5;
+}
+
 
 /* *****
   purple 
@@ -23,7 +27,7 @@ nav,
 }
 
 #schedule-controls a {
-  background: rgba(70,50,195,.3);  // purple with opacity 30%
+  background: rgba(70,50,195,.3);  /* purple with opacity 30% */
 }
 
 .schedule-tab h3, 
@@ -76,7 +80,8 @@ h2.subhead {
 .open-block, 
 .tag-list-item,
 .category-list-item,
-.category-list-item:nth-child(2n+1) {
+.category-list-item:nth-child(2n+1),
+.session-detail .meta {
   background: #fff;
 }
 
