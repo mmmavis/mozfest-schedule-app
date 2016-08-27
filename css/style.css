@@ -5,6 +5,13 @@
   pink EB238B
 *** */
 
+body,
+.schedule-tab h3 span, 
+.page-caption h3 span,
+.schedule-tab h3 .fa {
+  background: #F5F5F5;
+}
+
 
 /* *****
   purple 
@@ -44,6 +51,10 @@ nav,
   grey 
 ***** */
 
+h2.subhead {
+  color: #7A7A7A;
+}
+
 .session-list-item, 
 .tag-list-item,
 #page-links a,
@@ -60,3 +71,12 @@ nav,
 #page-links a.active {
   color: #fff;
 }
+
+.session-list-item, 
+.open-block, 
+.tag-list-item,
+.category-list-item,
+.category-list-item:nth-child(2n+1) {
+  background: #fff;
+}
+
