@@ -1,0 +1,62 @@
+/* *** colours
+  purple #4632C3
+  light purple #BDB7E3
+  teal #00FCDD
+  pink EB238B
+*** */
+
+
+/* *****
+  purple 
+***** */
+
+nav,
+#schedule-controls a.active {
+  background: #4632C3; 
+}
+
+#schedule-controls a {
+  background: rgba(70,50,195,.3);  // purple with opacity 30%
+}
+
+.schedule-tab h3, 
+.page-caption h3 span {
+  color: #4632C3;
+}
+
+.schedule-tab h3::before, 
+.page-caption h3::before {
+  border-color: #4632C3;
+}
+
+
+/* *****
+  pink 
+***** */
+
+.session-list-item h4 a,
+.favorite {
+  color: #EB238B;
+}
+
+
+/* *****
+  grey 
+***** */
+
+.session-list-item, 
+.tag-list-item,
+#page-links a,
+#search {
+  color: #ADADAD;
+}
+
+
+/* *****
+  white 
+***** */
+
+#page-links a:hover,
+#page-links a.active {
+  color: #fff;
+}
