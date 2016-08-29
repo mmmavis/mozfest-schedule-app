@@ -6,9 +6,9 @@
 *** */
 
 body,
-.schedule-tab h3 span, 
+.timeblock-header span, 
 .page-caption h3 span,
-.schedule-tab h3 .fa {
+.timeblock-header .fa {
   background: #F5F5F5;
 }
 
@@ -30,12 +30,12 @@ nav,
   background: rgba(70,50,195,.3);  /* purple with opacity 30% */
 }
 
-.schedule-tab h3, 
+.timeblock-header, 
 .page-caption h3 span {
   color: #4632C3;
 }
 
-.schedule-tab h3::before, 
+.timeblock-header::before, 
 .page-caption h3::before {
   border-color: #4632C3;
 }
