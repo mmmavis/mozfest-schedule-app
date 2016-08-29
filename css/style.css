@@ -45,7 +45,7 @@ nav,
   pink 
 ***** */
 
-.session-list-item h4 a,
+.session-card h4 a,
 .favorite {
   color: #EB238B;
 }
@@ -55,11 +55,12 @@ nav,
   grey 
 ***** */
 
-h2.subhead {
+h2.subhead,
+.session-detail h2 {
   color: #7A7A7A;
 }
 
-.session-list-item, 
+.session-card, 
 .tag-list-item,
 #page-links a,
 #search {
@@ -76,7 +77,7 @@ h2.subhead {
   color: #fff;
 }
 
-.session-list-item, 
+.session-card, 
 .open-block, 
 .tag-list-item,
 .category-list-item,
