@@ -26,10 +26,6 @@ nav,
   background: #4632C3; 
 }
 
-#schedule-controls a {
-  background: rgba(70,50,195,.3);  /* purple with opacity 30% */
-}
-
 .timeblock-header, 
 .page-caption h3 span {
   color: #4632C3;
@@ -40,6 +36,18 @@ nav,
   border-color: #4632C3;
 }
 
+/* *****
+  light purple 
+***** */
+
+#page-links a,
+#page-links a:link {
+  color: #BDB7E3;
+}
+
+#schedule-controls a {
+  background: #BDB7E3;  /* purple with opacity 30%, #BDB7E3 */
+}
 
 /* *****
   pink 
@@ -62,7 +70,6 @@ h2.subhead,
 
 .session-card, 
 .tag-list-item,
-#page-links a,
 #search {
   color: #ADADAD;
 }
@@ -72,6 +79,7 @@ h2.subhead,
   white 
 ***** */
 
+.day-view #schedule-page-link,
 #page-links a:hover,
 #page-links a.active {
   color: #fff;
