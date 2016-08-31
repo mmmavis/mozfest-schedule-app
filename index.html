@@ -3,10 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Schedule App</title>
+    <title>MozFest 2016 Schedule</title>
     <meta name="description" content="Schedule for MozFest 2016">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://mozilla.github.io/schedule-app-core/css/schedule.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon.png">
@@ -28,7 +27,7 @@
       <nav>
         <div class="container">
           <a class="logo">
-            <img src="img/logo-mozilla-festival-2016.svg" />
+            <img src="img/logo-mozfest2016.svg" width="240px" />
           </a>
           <div id="nav-links">
             <div id="page-links"></div>
@@ -107,7 +106,7 @@
         <%= smartypants(session.facilitators) %>
       </div>
       <% } %>
-      <div class="hidden session-description">
+      <div class="session-description" hidden>
       <% if (session.description) { %>
         <%= marked(session.description.replace('http://','').replace('https://','')) %>
       <% } %>
