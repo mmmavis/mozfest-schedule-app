@@ -22,6 +22,7 @@ body,
 ***** */
 
 nav,
+#show-full-schedule,
 #schedule-controls a.active {
   background: #4632C3; 
 }
@@ -34,6 +35,10 @@ nav,
 .timeblock-header::before, 
 .page-caption h3::before {
   border-color: #4632C3;
+}
+
+#show-full-schedule {
+  color: #fff;
 }
 
 /* *****
