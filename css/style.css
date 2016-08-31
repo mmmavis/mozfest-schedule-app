@@ -40,8 +40,8 @@ nav,
   light purple 
 ***** */
 
-#page-links a,
-#page-links a:link {
+#nav-links a,
+#nav-links a:link {
   color: #BDB7E3;
 }
 
@@ -80,8 +80,8 @@ h2.subhead,
 ***** */
 
 .day-view #schedule-page-link,
-#page-links a:hover,
-#page-links a.active {
+#nav-links a:hover,
+#nav-links a.active {
   color: #fff;
 }
 
