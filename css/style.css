@@ -86,7 +86,8 @@ h2.subhead,
 
 .day-view #schedule-page-link,
 #nav-links a:hover,
-#nav-links a.active {
+#nav-links a.active,
+.search-mode #search {
   color: #fff;
 }
 
